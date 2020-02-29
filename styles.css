@@ -68,7 +68,7 @@ header .social-nav {
 }
 
 .social-nav .sn-instagram {
-  background: url('/instagram.svg') no-repeat 50% 50%;
+  background: url('instagram.svg') no-repeat 50% 50%;
   background-color: #E1306C;
 }
 
